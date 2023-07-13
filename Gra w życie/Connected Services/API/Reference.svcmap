@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="8b89c6d3-8206-4bbd-9e3f-2b266f4d63ab" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/GoL" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GoLService.wsdl" MetadataType="Wsdl" ID="30d89d12-4801-4502-be23-4f5125589a4d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/GoL?wsdl" />
+    <MetadataFile FileName="GoL.xsd" MetadataType="Schema" ID="728b9b11-5203-49b3-a72c-c62900065a99" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/GoL?xsd=xsd1" />
+    <MetadataFile FileName="GoL1.xsd" MetadataType="Schema" ID="8fa27958-c0cf-4793-b505-ffcf11bf10ce" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/GoL?xsd=xsd0" />
+    <MetadataFile FileName="GoL.disco" MetadataType="Disco" ID="d23407f2-17af-4941-bf14-39ce6532e9e0" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/GoL?disco" />
+    <MetadataFile FileName="GoL2.xsd" MetadataType="Schema" ID="0cb89fb8-44e0-482d-9207-3f0ad5575658" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/GoL?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
